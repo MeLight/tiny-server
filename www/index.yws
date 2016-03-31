@@ -1,0 +1,10 @@
+<html>
+<head>
+<title>Default index file</title>
+</head>
+<body>
+	<h1>Main index</h1>
+	Query: {}<br>
+	Path: {}</br>
+</body>
+</html>
